@@ -3,5 +3,4 @@
 - 🔭 I’m currently working on Flutter
 
 ![Aruns's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunzuturu&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunzuturu&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=arunzuturu&layout=compact)
