@@ -26,7 +26,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on Salesforce & Flutter A</li>
+            <li> 👨🏻‍💻 I'm currently working on Salesforce & Flutter Apps</li>
             <li> 🎓 I'm currently learning Flutter <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
